@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "A basic Node.js Web app for practicing the basic skills of node.js",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node index"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MokshagnaV/basic-nodejs.git"
