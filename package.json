@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MokshagnaV/basic-nodejs/issues"
   },
-  "homepage": "https://github.com/MokshagnaV/basic-nodejs#readme"
+  "homepage": "https://github.com/MokshagnaV/basic-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
